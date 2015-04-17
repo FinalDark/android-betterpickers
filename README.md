@@ -1,4 +1,4 @@
-![BetterPickers Feature Graphic][5]
+![BetterPickers Feature Graphic][5][1]
 
 DialogFragments modeled after the 4.2 Alarm Clock TimePicker to improve UX for picking time, date, and numbers.
 
